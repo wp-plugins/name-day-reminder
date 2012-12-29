@@ -1,0 +1,27 @@
+p#err_msg {
+	border:1px solid #EACBCC;
+	background-color: #FFDFDF;
+	margin:3px 0;
+	font-size:10px;
+	font-weight:bold;
+	text-align:center;
+}
+p#green_msg {
+	border:1px solid #006600;
+	background-color: #99CC66;
+	margin:3px 0;
+	font-size:10px;
+	font-weight:bold;
+	text-align:center;
+}
+p#notif_msg {
+	border:1px solid #CDB79E;
+	background-color: #FEF1E1;
+	margin:3px 0;
+	font-size:10px;
+	font-weight:bold;
+	text-align:center;	
+}
+.NameDayReminderWidget {
+	margin:5px;
+}
