@@ -4,7 +4,7 @@ Donate link: http://www.namedayreminder.com/
 Tags: namedays, namedays reminder
 Requires at least: 3.0.1
 Tested up to: 2.8
-Stable tag: 4.3
+Stable tag: 0.1
 License: GPLv2 or later
 
 Module show`s name days for current day.
