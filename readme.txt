@@ -1,7 +1,7 @@
 === Name Day Reminder ===
 Contributors: janis.krauklis
 Donate link: http://www.namedayreminder.com/donate
-Tags: namedays, namedays reminder
+Tags: Name Days, Namedays, Reminder, Name Day Reminder, Europe name days, Global name days, widget name days, Austria, Czech Republic, Finland, France, Germany, Hungary, Italy, Latvia, Poland, Slovakia, Sweden
 Requires at least: 3.0.1
 Tested up to: 2.8
 Stable tag: 0.1
