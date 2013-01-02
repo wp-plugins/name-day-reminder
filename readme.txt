@@ -1,6 +1,6 @@
 === Name Day Reminder ===
 Contributors: janis.krauklis
-Donate link: http://www.namedayreminder.com/
+Donate link: http://www.namedayreminder.com/donate
 Tags: namedays, namedays reminder
 Requires at least: 3.0.1
 Tested up to: 2.8
@@ -20,17 +20,21 @@ Wordpress is one of the ways how to use it. Also there is iOS App for [iPhones](
 
 = Countries =
 Frequently updated Cloud keep Name Days from:
-1.Austria - AT
-2.Czech Republic - CZ
-3.Finland - FI
-4.France - FR
-5.Germany - DE
-6.Hungary - HU
-7.Italy - IT
-8.Latvia - LV
-9.Poland - PL
-10.Slovakia - SK
-11.Sweden - SE
+* Austria - AT
+* Czech Republic - CZ
+* Finland - FI
+* France - FR
+* Germany - DE
+* Hungary - HU
+* Italy - IT
+* Latvia - LV
+* Poland - PL
+* Slovakia - SK
+* Sweden - SE
+
+= About service developers =
+Project idea & iOS development - Kaspars Auzarejs-Auzers ([twitter](https://twitter.com/kauzers) & [blog](http://dotolearn.wordpress.com))
+WordPress & Drupal development - Janis Krauklis ([twitter](https://twitter.com/krauklis_janis))
 
 == Installation ==
 1. Download, install and activate Plugin
@@ -40,13 +44,11 @@ Frequently updated Cloud keep Name Days from:
 
 == Frequently Asked Questions ==
 
-Find our [support](http://www.namedayreminder.com/support/) area
+Find our [support](http://www.namedayreminder.com/support) area
 
 == Screenshots ==
 
-1. http://www.namedayreminder.com/wp-content/uploads/2012/10/image_2.jpg
-
-No screenhots yet.
+1. This is the widget control panel of the Name Day Reminder plugin
 
 == Changelog ==
 
@@ -54,6 +56,4 @@ No screenhots yet.
 * The first widget version
 
 == Upgrade Notice ==
-
-= 0.1 =
-The first widget version.
+The current version of Name Day Reminder requires WordPress 3.0 or higher. If you use older version of WordPress, you need to upgrade WordPress first.
