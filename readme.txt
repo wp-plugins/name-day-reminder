@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Name Day Reminder ===
 Contributors: janis.krauklis
 Donate link: http://www.namedayreminder.com/
 Tags: namedays, namedays reminder
@@ -6,38 +6,45 @@ Requires at least: 3.0.1
 Tested up to: 2.8
 Stable tag: 0.1
 License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Module show`s name days for current day.
+Biggest Name Day database in Cloud. Easy, API available.
 
 == Description ==
 
-1. Download plugin form <a href='http://wordpress.org/extend/plugins/name-day-reminder/'>WordPress</a> (V 0.1)
-2. Install and activate it in your Plugins admin page
-3. Get service API key <a href='http://www.namedayreminder.com/get-api/'>here</a>
-4. Add widget to your side bar and input API key
-5. Choose which country name days to show
-6. Save and enjoy!
+= About =
+This solution provides Cloud full of Name Days. 
+You cal show in sour wordpress blog Name Days for today and inform your readers!
 
-Automated e-mails will be generated to inform you about API key validation date. For free accounts it will be once in quarter.
+Wordpress is one of the ways how to use it. Also there is iOS App for [iPhones](http://www.namedayreminder.com/mobile-ios) and complete API for [developers](http://www.namedayreminder.com/developers/)
 
-Plugin displays name days of current day in selected country.
+= Countries =
+Frequently updated Cloud keep Name Days from:
+1.Austria - AT
+2.Czech Republic - CZ
+3.Finland - FI
+4.France - FR
+5.Germany - DE
+6.Hungary - HU
+7.Italy - IT
+8.Latvia - LV
+9.Poland - PL
+10.Slovakia - SK
+11.Sweden - SE
 
 == Installation ==
-
-1. Get api key: Go to http://www.namedayreminder.com/get-api/ and require api key
-2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Place nameday widget in visible section (Main Sidebar, Footer area e.c.)
-4. Enter api key in API Key input field and click "Save"
-5. If everything is OK, then choose country wich namedays you want to show
-6. Also you can add main widget title, subtitle and choose how to display name days - as row or as list
+1. Download, install and activate Plugin
+2. Get service API [key](http://www.namedayreminder.com/get-api) to use our Cloud service
+3. Add widget to your side bar and input API key
+4. Choose which country name days to show and other settings
 
 == Frequently Asked Questions ==
 
-= A question that someone might have =
+Find our [support](http://www.namedayreminder.com/support/) area
 
 == Screenshots ==
 
-Wordpress admin page http://www.namedayreminder.com/wp-content/uploads/2012/10/image_2.jpg
+1. http://www.namedayreminder.com/wp-content/uploads/2012/10/image_2.jpg
 
 No screenhots yet.
 
