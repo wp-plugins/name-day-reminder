@@ -1,10 +1,10 @@
 === Name Day Reminder ===
 Contributors: janis.krauklis
 Donate link: http://www.namedayreminder.com/donate
-Tags: Name Days, Namedays, Reminder, Name Day Reminder, Europe name days, Global name days, widget name days, Austria, Czech Republic, Finland, France, Germany, Hungary, Italy, Latvia, Poland, Slovakia, Sweden
+Tags: Name Days, Namedays, Reminder, Name Day Reminder, Europe name days, Global name days, widget name days, Austria, Czech Republic, Finland, France, Germany, Hungary, Italy, Latvia, Poland, Slovakia, Sweden, Estonia, Lithuania
 Requires at least: 3.0.1
 Tested up to: 2.8
-Stable tag: 0.1
+Stable tag: 0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -20,17 +20,7 @@ Wordpress is one of the ways how to use it. Also there is iOS App for [iPhones](
 
 = Countries =
 Frequently updated Cloud keep Name Days from:
-* Austria - AT
-* Czech Republic - CZ
-* Finland - FI
-* France - FR
-* Germany - DE
-* Hungary - HU
-* Italy - IT
-* Latvia - LV
-* Poland - PL
-* Slovakia - SK
-* Sweden - SE
+Austria - AT, Czech Republic - CZ, Finland - FI, France - FR, Germany - DE, Hungary - HU, Italy - IT, Latvia - LV, Poland - PL, Slovakia - SK, Sweden - SE, Lithuania - LT, Estonia - ET
 
 = About service developers =
 Project idea & iOS development - Kaspars Auzarejs-Auzers ([twitter](https://twitter.com/kauzers) & [blog](http://dotolearn.wordpress.com))
@@ -54,6 +44,9 @@ Find our [support](http://www.namedayreminder.com/support) area
 
 = 0.1 =
 * The first widget version
+
+= 0.2 =
+* Added name days for Lithuania and Estonia
 
 == Upgrade Notice ==
 The current version of Name Day Reminder requires WordPress 3.0 or higher. If you use older version of WordPress, you need to upgrade WordPress first.
