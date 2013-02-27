@@ -3,7 +3,7 @@
 Plugin Name: Name day reminder
 Plugin URI: http://www.namedayreminder.com
 Description: Name day reminder
-Version: 0.1
+Version: 0.2
 Author: John and Kaspars
 Author URI: http://www.namedayreminder.com
 */
